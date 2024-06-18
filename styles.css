@@ -1,0 +1,33 @@
+.header{
+    background-color: green;
+    display: grid;
+    border-radius: 20px;
+    padding: 10px;
+    grid-template-columns: auto auto ;
+}
+.why-choose-us{
+    background-color: blueviolet;
+
+}
+.header-image-right{
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+}
+.header-content{
+    padding-left: 20px;
+    font-size: 18px;
+}
+.header-title{
+    font-size: 30px;
+    padding-left: 20px;
+}
+.btn-header{
+    border: none;
+    height: 50px;
+    width: 140px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
